@@ -1,2 +1,3 @@
-# ProjectCocroach
-Membuat game sederhana menggunakan processing
+# CokroachPlay
+Animated cokroaches on screen.
+Click to add a cocroach.
